@@ -1,0 +1,14 @@
+#Class_id{
+    background-color: rgb(210, 233, 8);
+}
+#Book{
+    background-color: red;
+}
+#clock{
+    background-color: blue;
+}
+
+.red{
+    color:red;
+    background-color: yellow;
+}
